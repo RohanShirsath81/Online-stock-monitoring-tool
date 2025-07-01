@@ -5,7 +5,7 @@
   "scripts": {
     "start": "nodemon index.js"
   },
-  "author": "rohan shirsath",
+  "author": "YOUR_NAME",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^3.1.7"
